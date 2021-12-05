@@ -1,6 +1,5 @@
-#CSCI 570 (Analysis of Algorithms) Final Project
+# CSCI 570 (Analysis of Algorithms) Final Project
 
-Dynamic-Programming-Linear-Space
 ================================
 
 Implementation of Hirschberg's algorithm; linear space implementation of dynamic programming
